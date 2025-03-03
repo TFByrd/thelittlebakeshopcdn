@@ -1,1 +1,1 @@
-<script>console.log('test')</script>
+console.log('test')
